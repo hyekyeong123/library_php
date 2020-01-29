@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+li {
+	list-style: none;
+}
+
+h2 {
+	text-align: center;
+}
+
+body {
+	padding: 30px !important;
+}
+
+.panel {
+	max-width: 1000px !important;
+	margin: auto;
+	padding: 20px;
+}
+
+.center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
